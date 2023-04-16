@@ -1,4 +1,4 @@
-# Rhys' Comfi
+# Rhys' Comfi *Instructions*
 My version of @Comfy-Themes Comfy for the Spicetify Client.
 - You can either Install my CSS edit which replaces the gradient playback bar with a solid one *or* Install Rhys' Comfi for my color-scheme + solid playback bar.
 
