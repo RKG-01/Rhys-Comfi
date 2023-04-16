@@ -5,7 +5,7 @@ My version of @Comfy-Themes Comfy for the Spicetify Client.
 
 
 ## Downloading the CSS edit for Comfy.
-- I assume you have spicetify comfy installed already!
+- I assume you have spicetify & comfy installed already!
 1. Go into the Comfi, then into user.css.
  <img src="https://user-images.githubusercontent.com/69178152/232305388-a02ee4bd-c740-4de3-8c06-a1e838386ace.png" width="200" />
 
