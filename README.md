@@ -30,9 +30,10 @@ My version of @Comfy-Themes Comfy for the Spicetify Client.
 
 3. Drag the "Comfi" folder into \AppData\Roaming\spicetify\Themes
 <img src="https://user-images.githubusercontent.com/69178152/232301371-128d1b52-8b9f-46b2-b458-bfa9b19ecf06.png" width="200" />
-  You can also locate the spicetify folder by using, "spicetify config-dir" in Windows Powershell.
 
 <img src="https://user-images.githubusercontent.com/69178152/232301646-de84aa6f-8363-4d39-9495-d42c9d681abb.png" width="200" />
+
+  You can also locate the spicetify folder by using, "spicetify config-dir" in Windows Powershell.
 
 4. Then run "spicetify config current_theme Comfi" in Windows Powershell.
 <img src="https://user-images.githubusercontent.com/69178152/232302112-b9e5fd31-de55-451c-af67-169fde3b9045.png" width="200" />
