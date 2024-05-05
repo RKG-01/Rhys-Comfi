@@ -1,4 +1,15 @@
+# THIS THEME IS SEVERELY OUTDATED
+###  The colour scheme and change in CSS after Spotify's UI upgrade has rendered it unusable.
+I don't have the time to update it.
+* Please check out the original: https://github.com/Comfy-Themes/Spicetify
+* An alternative: https://github.com/catppuccin/spicetify
+* Another alternative I use right now: https://github.com/nimsandu/spicetify-bloom
+
+Sorry for the inconvenience!
+#
+
 # Rhys' Comfi *Instructions*
+
 My version of @Comfy-Themes Comfy for the Spicetify Client.
 - You can either Install my CSS edit which replaces the gradient playback bar with a solid one *or* Install Rhys' Comfi for my color-scheme + solid playback bar.
 
